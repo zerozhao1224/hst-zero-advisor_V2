@@ -1,0 +1,15 @@
+{
+  "superAdmin": "zeroatos@gmail.com",
+  "admins": [
+    {
+      "email": "zeroatos@gmail.com",
+      "role": "super_admin",
+      "name": "系統建立者 (Creator)",
+      "invitedBy": "系統創始預設",
+      "invitedAt": "2026-08-28T07:22:01.985Z",
+      "isCreator": true,
+      "lastLoginAt": "2026-08-28T07:22:28.318Z"
+    }
+  ],
+  "invites": []
+}
